@@ -13,10 +13,10 @@ Event Driven Design Strategy-All incoming messages will be treated as events and
 
 Tech Stacks Used
 =================
-OpenJDK11
-SpringBoot 
-Maven 
-Junit5
+1.OpenJDK11
+2.SpringBoot 
+3.Maven v3.6.3
+4.Junit5
 
 
 
